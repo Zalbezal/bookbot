@@ -1,2 +1,2 @@
 # bookbot
-Boot.dev bookbot
+BookBot is a new git project
